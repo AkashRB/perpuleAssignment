@@ -1,0 +1,42 @@
+.example-card {
+    max-width: 310px;
+    /* min-width: 100px; */
+    margin: 10px
+  }
+  
+  .example-header-image {
+    background-size: cover;
+  }
+
+  .margin50{
+      margin:50px
+  }
+  .margin10{
+    margin:10px
+}
+  .marginRight10{
+    margin-right:10px
+}
+.marginLeft10{
+    margin-left:10px
+}
+.example-form {
+    min-width: 150px;
+    max-width: 400px;
+    width: 100%;
+    float: right;
+  }
+  
+  .example-full-width {
+    width: 100%;
+  }
+  .fr{
+      float: right;
+  }
+  .disabled{
+      cursor:not-allowed
+  }
+  .active{
+    background-color: #4b008299;
+    color:white
+  }
